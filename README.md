@@ -61,5 +61,4 @@ following Python libraries being installed:
 The "example.ipynb"/"example.html" files show an example of how this model can be deployed and used to classify an image downloaded from the web.
 The "ipynb" file can be opened and run in Jupyter while the "html" file is just for quick reading.
 
-The "link_to_model_weights.txt" file contains the Google Drive link where the learned model weights can be downloaded from to use in the given
-implementation code.
+The model weights can be found at: https://drive.google.com/open?id=1OEdcpvH2hv729pupwt80qaZrUKLLxx_G
