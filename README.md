@@ -45,20 +45,15 @@ This folder contains two subfolders:
 - Model Implementation
 
 ## Dataset Creation and Model Development
-The "Dataset Creation and Model Development" folder contains the information, resources, code and explanation for the process of scraping the data,
-processing it, model construction, training and evaluation. This information is presented in the form of a Juppyter notebook available in both its
-native "ipynb" format which can be opened in Jupyter and in "html" format for reading which can be opened in any html editor or web browser.
 
 ## Model Implementation
-The "Model Implementation" folder contains the code and resources needed to deploy this model and use it to do inference.
 
 The "model_implementation.py" file contains the Python code that needs to be run to build the model and load its learned weights and to be able
-to obtain the inference for a given image. It is recommended to simply import this file as a module to use it. To run, this module depends on the
+to obtain the inference for a given image. It is recommended to simply import this file as a module to use it. This module depends on the
 following Python libraries being installed:
 - Numpy
 - Tensorflow version 2 or higher
 
 The "example.ipynb"/"example.html" files show an example of how this model can be deployed and used to classify an image downloaded from the web.
-The "ipynb" file can be opened and run in Jupyter while the "html" file is just for quick reading.
 
 The model weights can be found at: https://drive.google.com/open?id=1OEdcpvH2hv729pupwt80qaZrUKLLxx_G
